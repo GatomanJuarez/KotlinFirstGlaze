@@ -6,7 +6,7 @@ Tipado estatico.- Cuando se corre se conoce el tipo de dato
 	Interoperable (Podemos usar Librerias de java)
 - Moviles y web(Compatibles con java)
 
-fun main (nombre del parametro: tipo del parametro)
+fun holaMundo.pedirDatos.clases.variables.main (nombre del parametro: tipo del parametro)
 funcion
 los ; son opcionales
 val = final
